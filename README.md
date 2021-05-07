@@ -9,8 +9,6 @@ Glad to meet you.
 ## This Week
 <!--START_SECTION:waka-->
 ```text
-TypeScript   2 hrs 14 mins   ████████████████████░░░░░   79.64 % 
-Python       29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.65 % 
-JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+TypeScript   2 hrs 29 mins   █████████████████████████   99.85 % 
 ```
 <!--END_SECTION:waka-->
