@@ -9,10 +9,10 @@ Glad to meet you.
 ## This Week
 <!--START_SECTION:waka-->
 ```text
-TypeScript   15 hrs 24 mins  ████████████████▓░░░░░░░░   66.18 % 
-JSON         2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Python       1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Java         56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-JavaScript   45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+TypeScript   16 hrs 35 mins  ████████████████▒░░░░░░░░   64.88 % 
+JSON         2 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+YAML         1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Python       1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Java         56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 ```
 <!--END_SECTION:waka-->
