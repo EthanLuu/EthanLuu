@@ -9,9 +9,10 @@ Glad to meet you.
 ## This Week
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 59 mins    ███████████████▓░░░░░░░░░   63.01 % 
-Python       1 hr 5 mins     ████████▓░░░░░░░░░░░░░░░░   34.66 % 
-YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-LESS         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Python           1 hr 21 mins    ██████████████▓░░░░░░░░░░   58.45 % 
+PHP              30 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.58 % 
+TypeScript       19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Blade Template   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+YAML             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 <!--END_SECTION:waka-->
