@@ -9,10 +9,10 @@ Glad to meet you.
 ## This Week
 <!--START_SECTION:waka-->
 ```text
-Svelte       11 hrs 23 mins  █████████▓░░░░░░░░░░░░░░░   39.10 % 
-TypeScript   6 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.25 % 
-Python       6 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.99 % 
-JSON         1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Other        1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Svelte       9 hrs 25 mins   ██████████▓░░░░░░░░░░░░░░   43.18 % 
+JavaScript   5 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.78 % 
+TypeScript   4 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.45 % 
+JSON         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Other        39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 <!--END_SECTION:waka-->
