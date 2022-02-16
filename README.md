@@ -9,6 +9,8 @@ Glad to meet you.
 ## This Week
 <!--START_SECTION:waka-->
 ```text
+Total: 18 mins
+
 Svelte       11 mins         ██████████████▓░░░░░░░░░░   58.75 % 
 Python       7 mins          █████████▒░░░░░░░░░░░░░░░   37.20 % 
 ```
