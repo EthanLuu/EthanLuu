@@ -10,7 +10,8 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   1 hr 5 mins     ██████████████████████▓░░   90.86 %
+CSS          6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
 ```
 
 <!--END_SECTION:waka-->
