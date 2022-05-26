@@ -10,8 +10,8 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```text
-JSON         26 mins         ██████░░░░░░░░░░░░░░░░░░░   23.87 %
-Other        25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
+TypeScript   4 hrs 18 mins   █████████████▓░░░░░░░░░░░   54.53 %
+Other        1 hr 57 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
 ```
 
 <!--END_SECTION:waka-->
