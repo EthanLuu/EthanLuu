@@ -10,7 +10,7 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```text
-INI   0 secs          █████████████████████████   100.00 %
+Other   6 mins          ████████████████████████▓   98.42 %
 ```
 
 <!--END_SECTION:waka-->
