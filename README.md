@@ -10,7 +10,10 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```text
-Other   7 mins          ████████████████████████▓   98.53 %
+Python       32 mins         ███████████▓░░░░░░░░░░░░░   46.43 %
+Text         19 mins         ███████░░░░░░░░░░░░░░░░░░   28.29 %
+Markdown     8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+Other        7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
 ```
 
 <!--END_SECTION:waka-->
