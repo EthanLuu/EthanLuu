@@ -10,9 +10,7 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```text
-Python       36 mins         ███████████████▒░░░░░░░░░   61.98 %
-Git Config   21 mins         █████████▒░░░░░░░░░░░░░░░   37.13 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
