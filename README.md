@@ -10,7 +10,10 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python       2 hrs 3 mins    ██████████████████▒░░░░░░   73.70 %
+YAML         12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+Text         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Other        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 ```
 
 <!--END_SECTION:waka-->
