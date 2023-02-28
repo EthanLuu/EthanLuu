@@ -10,9 +10,8 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```text
-Python       9 hrs 18 mins   █████████████████▓░░░░░░░   70.29 %
-Svelte       1 hr 42 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
-Other        31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Python     10 hrs 23 mins  █████████████████████░░░░   83.64 %
+Other      45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
 ```
 
 <!--END_SECTION:waka-->
