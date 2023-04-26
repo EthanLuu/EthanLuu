@@ -10,9 +10,9 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```text
-Python       11 hrs 57 mins  ███████████████░░░░░░░░░░   59.50 %
-TeX          7 hrs 17 mins   █████████░░░░░░░░░░░░░░░░   36.28 %
-Other        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Python       14 hrs 24 mins  ███████████████▓░░░░░░░░░   62.05 %
+TeX          7 hrs 58 mins   ████████▓░░░░░░░░░░░░░░░░   34.37 %
+Other        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
