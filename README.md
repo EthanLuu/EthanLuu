@@ -10,10 +10,9 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-TeX          1 hr 40 mins    ███████████████░░░░░░░░░░   60.42 %
-JavaScript   1 hr 5 mins     █████████▓░░░░░░░░░░░░░░░   39.08 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TeX          1 hr 19 mins    █████████████▓░░░░░░░░░░░   54.74 %
+JavaScript   1 hr 5 mins     ███████████▒░░░░░░░░░░░░░   44.71 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
