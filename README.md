@@ -10,8 +10,7 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   9 mins          ████████████████████████░   95.70 %
-Vue.js   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
