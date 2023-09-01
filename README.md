@@ -10,7 +10,10 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vue.js       12 mins         ██████████████▓░░░░░░░░░░   58.68 %
+Python       4 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
+JavaScript   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+TypeScript   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
 ```
 
 <!--END_SECTION:waka-->
