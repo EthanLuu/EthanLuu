@@ -10,11 +10,11 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       9 hrs 28 mins   █████████████▓░░░░░░░░░░░   54.10 %
-JavaScript   3 hrs 26 mins   █████░░░░░░░░░░░░░░░░░░░░   19.66 %
-TypeScript   1 hr 50 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-JSON         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-Python       35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Vue.js       8 hrs 33 mins   ███████████▓░░░░░░░░░░░░░   46.30 %
+JavaScript   5 hrs 27 mins   ███████▒░░░░░░░░░░░░░░░░░   29.50 %
+TypeScript   1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+JSON         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Python       41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
