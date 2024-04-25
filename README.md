@@ -10,8 +10,11 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-TeX           26 mins         █████████████████████████   99.73 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+TypeScript    39 mins         ███████░░░░░░░░░░░░░░░░░░   27.52 %
+Markdown      39 mins         ███████░░░░░░░░░░░░░░░░░░   27.40 %
+JSON          37 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
+TeX           26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
+JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
