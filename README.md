@@ -10,11 +10,11 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    2 hrs 6 mins    ███████▒░░░░░░░░░░░░░░░░░   29.84 %
-Astro         1 hr 48 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.56 %
-JavaScript    1 hr 34 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.14 %
-JSON          38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-TSConfig      34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+TypeScript    5 hrs 56 mins   █████████████▓░░░░░░░░░░░   55.18 %
+Astro         1 hr 50 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
+JavaScript    1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+JSON          41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+TSConfig      34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
 ```
 
 <!--END_SECTION:waka-->
