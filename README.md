@@ -10,11 +10,11 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     6 hrs 12 mins   ████████████░░░░░░░░░░░░░   48.32 %
-JavaScript     3 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.30 %
-TeX            2 hrs 10 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
-CSV            40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-BibTeX         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+TypeScript   9 hrs 32 mins   ████████████████▒░░░░░░░░   64.94 %
+JavaScript   2 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
+TeX          1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+CSV          40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+BibTeX       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
