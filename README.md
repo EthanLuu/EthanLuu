@@ -10,7 +10,8 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-TeX   44 mins         █████████████████████████   100.00 %
+TeX     1 hr 44 mins    ████████████████████████░   95.41 %
+Other   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 ```
 
 <!--END_SECTION:waka-->
