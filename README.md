@@ -10,7 +10,10 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TeX           2 mins          ██████████████████████▒░░   88.74 %
+BibTeX        0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Singularity   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
