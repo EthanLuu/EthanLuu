@@ -10,8 +10,7 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-CSV     18 mins         █████████████▓░░░░░░░░░░░   54.12 %
-Other   15 mins         ███████████▒░░░░░░░░░░░░░   45.88 %
+CSV   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
