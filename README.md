@@ -10,7 +10,11 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-Text   26 mins         █████████████████████████   100.00 %
+TeX            49 mins         ███████████████▒░░░░░░░░░   61.24 %
+BibTeX         15 mins         █████░░░░░░░░░░░░░░░░░░░░   19.73 %
+Text           9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
+Singularity    3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Markdown       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
