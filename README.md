@@ -10,7 +10,7 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-TeX   1 hr 4 mins     █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
