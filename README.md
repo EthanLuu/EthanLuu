@@ -10,11 +10,11 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-Python        8 mins          ████████████████████▒░░░░   81.27 %
-TeX           0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-JavaScript    0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-BibTeX        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Singularity   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TeX           2 hrs 11 mins   ███████████████████████▒░   93.57 %
+Python        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+BibTeX        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Singularity   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
