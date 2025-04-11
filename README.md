@@ -10,11 +10,8 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-Singularity   6 mins          ███████████▒░░░░░░░░░░░░░   45.17 %
-TeX           5 mins          █████████░░░░░░░░░░░░░░░░   36.38 %
-BibTeX        2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
-Markdown      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-XML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Singularity   5 mins          ████████████████████████▓   99.32 %
+TeX           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
