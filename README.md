@@ -10,8 +10,8 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-TeX           1 hr 45 mins    ████████████████████████▓   98.28 %
-Singularity   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+TeX           1 hr 45 mins    ████████████████████████▓   98.30 %
+Singularity   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 BibTeX        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
