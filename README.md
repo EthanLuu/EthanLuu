@@ -10,9 +10,7 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         9 mins          █████████████▒░░░░░░░░░░░   52.77 %
-Python       6 mins          █████████▒░░░░░░░░░░░░░░░   36.73 %
-TypeScript   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
