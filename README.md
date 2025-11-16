@@ -10,7 +10,8 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   22 mins         ██████████████████████░░░   87.45 %
+Text       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
 ```
 
 <!--END_SECTION:waka-->
