@@ -10,8 +10,8 @@ Glad to meet you.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   50 mins         ████████████████████████░   96.62 %
-JSON       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Markdown   1 hr 2 mins     ████████████████████████▒   97.36 %
+JSON       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
